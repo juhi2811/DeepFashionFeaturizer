@@ -1,4 +1,4 @@
-# DeepC
+# DeepFashionFeatures
 This is a cloth recognizer multi-output deep-learning classification model based on Functional API, Keras and tensorflow. The model is trained on the famous open source DeepFashion dataset. It takes as input the images of the deep fashion dataset and categorizes clothes by three attributes:
 - purpose of clothing
 - design of clothing
