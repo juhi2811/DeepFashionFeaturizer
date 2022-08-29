@@ -4,7 +4,7 @@ This is a cloth recognizer multi-output deep-learning classification model serie
 - design of clothing
 - occassion
 
-![network_series (2)](https://user-images.githubusercontent.com/51826271/187241745-de79203b-983b-4a68-b291-38554db71e2a.png)
+![network_series (3)](https://user-images.githubusercontent.com/51826271/187243115-ec76dea1-7838-401b-96cb-edc8cf59aa66.png)
 
 The network architechture of the multi-output model is as shown:
 
